@@ -57,13 +57,3 @@ $~$
 ### :email: Contact 
 - Add your Email and Discord
 - You can also share other social media links if you want to. 😄
-
-If you want to create some cool design (completely optional), you can head over to [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
-  * Copy and paste the social links you enjoy and drop them below (make sure to change the `href` to your own links)
-
-<p align="left">
-<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-</p>
